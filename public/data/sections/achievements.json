@@ -100,7 +100,7 @@
         "id": "google_cert",
         "place": "@link{places.RedHat}",
         "date": "2023/01",
-        "href": "https://drive.google.com/file/d/13MQSoJPNGcvE0XespjmUSl70UnBY0btJ/view?usp=drivesdk",
+        "href": "https://doc-00-6o-prod-00-apps-viewer.googleusercontent.com/viewer2/prod-00/pdf/84ti76pk3nj9lgtpvokv83g8q3vob71i/bd6b00tigekbmqmoc59m1cjeb500360h/1710786900000/3/109531738208366450383/APznzaak80vQpgZ84AMn64ubM1tk28S5Jo_jFwjFNfDGtDQ3eUAgIiuBGYgb0jPzS1kxF0ZAzAVGTZyH0ihrVroSgCC77y2QmxPpCDecFOM553IGF4UhhunoTq7y17RicuNdhSQRYqcYamlRLYqoLn9XED0DN7XfX58XTpo1CkIJLWo0VEntFG-PPx9Ph33U1pAjSYdZvpmYA74oBMhbmOCIMrv6j0Vl7ip3fCH7Y3MxCwB6Kn4YoULXhSpEbYjWbDoauJQXbbnBWmm6rYXqBz7RbNDMHDcvtAQyjh-U0nsBGCkfTIs2uWXfk-IWwp2HSe2NPZHHrQ8CzHFRNVeM5zTvz6hTMASq22kD-d7Z_Etg6xzzabVDO-Fun4351HK_Ofa2RLmAYjXuW1jPqmu4G0WbZk_NIR7a0Zhph0OJi5_vv_UCMdH8o4w=?authuser=0&nonce=0n1gvif8hq6uo&user=109531738208366450383&hash=7iodgedl9ueb9gf3t6ntk1nh95l716u2",
         "locales": {
           "en": {
             "title": "Diploma in Red Hat Delivery Specialist - Automation",
@@ -134,6 +134,20 @@
           }
         }
       },
+
+      {
+        "id": "material_cert",
+        "place": "@link{places.Communication Skill}",
+        "date": "2024/2",
+        "href": "https://doc-04-8g-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/ac6b78s2rsh960ifv72sqlaprb7nu17n/3upffdju7m3o0ls5kgpl5m3tl2l1h1jn/1710872700000/3/109531738208366450383/APznzabDaCPF5sWSPBRLA42GfUD9gvLyq4FZ4qKra93o5k4AQEbvrBFarQBLSUsyL8DOJ82Ilw5ChLsDxtuOEphupvJJwpCoEk3gKRRSYEi8psc2XFISYER_gIDTQs3EHqEV0idBSmaHV-iiaVHxJzEPt2fD7B7_NSrfx0EN9kPpUJNdN4OxPAQlTHq83G9QvXrssiS8y79Tayv3wENFDNf46BnsQhhYRpoWmrZT2xC7kQMQiIsbKdHm4BK_VSxMJAhoM3odyNTQKcC3PqFOWStTahwKmOcUWEsaM2vd1fOsM-jRr_G6UByfEfgCHFqsftSandR5Zp_g7VeUdXCr25xUjEm5xgydub37ExPmSFSye_tE3e8hho8cxNL5p7bdh7_0HCI7JLoUFs6PpLSiu7BIZukiWWxwzt5ngJJEL3ut8W7kSZx1wzY=?authuser=0&nonce=h9rgnv115hhfc&user=109531738208366450383&hash=7bl9f7c2jnd8lp6b69m7p2lfq0s3u82v",
+        "locales": {
+          "en": {
+            "title": "Successfully completed an Online Spoken English Course with excellence",
+            "description": "had enrolled for Online Spoken English Course and completed the course with excellence."
+          }
+        }
+      },
+
       {
         "id": "material_cert",
         "place": "@link{places.aws}",
@@ -146,6 +160,7 @@
           }
         }
       }
+
     ]
   }
 }

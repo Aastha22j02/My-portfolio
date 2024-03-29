@@ -1,42 +1,23 @@
 {
-    "locales": {
-        "en": {
-            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
-            "welcomeShort": "Welcome!",
-            "bio": "With 2 years of experience, I have a strong background in Vue.js, Python, and Django, along with proficiency in Kubernetes (K8s), Rancher, and Linux OS. My expertise lies in developing user-centric interfaces, and my dedication to empathetic design has led me to create delightful and innovative digital experiences. Let's collaborate and craft something extraordinary together."
-        },
-
-        "es": {
-            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
-            "welcomeShort": "¡Saludos!",
-            "bio": "Con 2 años de experiencia, tengo una sólida formación en Vue.js, Python y Django, junto con habilidades en Kubernetes (K8s), Rancher y el sistema operativo Linux. Mi experiencia se centra en el desarrollo de interfaces centradas en el usuario, y mi dedicación al diseño empático me ha llevado a crear experiencias digitales encantadoras e innovadoras. Colaboremos y creemos algo extraordinario juntos."
-        },
-
-        "fr": {
-            "welcome": "Bienvenue sur mon <span class='text-primary'>Curriculum Vitae!</span>!",
-            "welcomeShort": "Bienvenue!",
-            "bio": "Avec 2 ans d'expérience, je possède une solide formation en Vue.js, Python et Django, ainsi qu'une maîtrise de Kubernetes (K8s), Rancher et du système d'exploitation Linux. Mon expertise se situe dans le développement d'interfaces centrées sur l'utilisateur, et mon engagement envers la conception empathique m'a conduit à créer des expériences numériques délicieuses et innovantes. Collaborons et créons quelque chose d'extraordinaire ensemble."
-        },
-
-        "zh": {
-            "welcome": "欢迎查阅我的<span class='text-primary'>简历！</span> ！",
-            "welcomeShort": "欢迎!",
-            "bio": "拥有2年的经验，我在Vue.js、Python和Django方面拥有坚实的基础，同时精通Kubernetes（K8s）、Rancher和Linux操作系统。我的专业领域包括开发以用户为中心的界面，我对共情设计的执着使我能够创造出令人愉悦和创新的数字体验。让我们共同合作，共同打造出非凡的成果"
-        }
-    },
-
-    "items": {
-        "socialCircles": [
-            "@link{profile.contact.instagram}",
-            "@link{profile.contact.facebook}",
-            "@link{profile.contact.linkedin}",
-            "@link{profile.contact.github}"
-        ],
-
-        "contactListItems": [
-            "@link{profile.contact.address}",
-            "@link{profile.contact.email}",
-            "@link{profile.contact.phone}"
-        ]
+  "locales": {
+    "en": {
+      "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+      "welcomeShort": "Welcome!",
+      "bio": "With 2 years of experience, I have a strong background in Vue.js, Python, and Django, along with proficiency in Kubernetes (K8s), Rancher, and Linux OS. My expertise lies in developing user-centric interfaces, and my dedication to empathetic design has led me to create delightful and innovative digital experiences. Let's collaborate and craft something extraordinary together."
     }
+  },
+
+  "items": {
+    "socialCircles": [
+
+      "@link{profile.contact.linkedin}",
+      "@link{profile.contact.github}"
+    ],
+
+    "contactListItems": [
+      "@link{profile.contact.address}",
+      "@link{profile.contact.email}",
+      "@link{profile.contact.phone}"
+    ]
+  }
 }

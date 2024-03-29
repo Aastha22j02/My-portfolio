@@ -1,6 +1,6 @@
 {
-  "name": "Ashish Sahu",
-  "profilePictureUrl": "images/pictures/avatar.png",
+  "name": "Aastha Gupta",
+  "profilePictureUrl": "images/pictures/a.jpg",
 
   "locales": {
     "en": {
@@ -12,24 +12,24 @@
   "contact": {
     "address": {
       "id": "address",
-      "value": "Hanuman Nagar Nai Basti, Satna, MP 485005",
-      "valueShort": "Satna, MP 485005",
+      "value": "Kila Road Kothi, Satna, MP 485666",
+      "valueShort": "Satna, MP 485666",
       "faIcon": "fa-solid fa-city",
       "href": null
     },
 
     "email": {
       "id": "email",
-      "value": "ashishsahu8135@gmail.com",
-      "valueShort": "ashishsahu8135@gmail.com",
+      "value": "aasthag284@gmail.com",
+      "valueShort": "aasthag284@gmail.com",
       "faIcon": "fa-solid fa-envelope",
-      "href": "mailto:ashishsahu8135@gmail.com"
+      "href": "mailto:aasthag284@gmail.com"
     },
 
     "facebook": {
       "id": "facebook",
-      "value": "Ashish Sahu",
-      "valueShort": "Ashish Sahu",
+      "value": "Aastha Gupta",
+      "valueShort": "Aastha Gupta",
       "faIcon": "fa-brands fa-facebook",
       "href": null
     },
@@ -39,7 +39,7 @@
       "value": "@Ashish.official",
       "valueShort": "@ashish.official",
       "faIcon": "fa-brands fa-github",
-      "href": "https://github.com/icoder-Ahish"
+      "href": "https://github.com/Aastha22j02"
     },
 
     "linkedin": {
@@ -47,13 +47,13 @@
       "value": "@icoder-Ahish",
       "valueShort": "@icoder-Ahish",
       "faIcon": "fa-brands fa-linkedin",
-      "href": "https://www.linkedin.com/in/ashish-sahu-b9882a223"
+      "href": "https://www.linkedin.com/in/aastha-gupta-265558218/"
     },
 
     "phone": {
       "id": "phone",
-      "value": "(+91) 8982132095",
-      "valueShort": "(+91) 8982132095",
+      "value": "(+91) 8827587284",
+      "valueShort": "(+91) 8827587284",
       "faIcon": "fa-solid fa-phone",
       "href": null
     }

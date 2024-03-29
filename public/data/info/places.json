@@ -87,6 +87,14 @@
         }
     },
 
+    "Communication Skill": {
+        "logoUrl": "images/places/Os3.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Communication skill"}
+        }
+    },
+
     "Goggle Skill": {
         "logoUrl": "images/places/Os3.png",
         "faIcon": "fa fa-house-laptop",

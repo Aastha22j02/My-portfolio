@@ -8,40 +8,27 @@
 
   "items": [
     {
-      "id": "online_course_udacity",
-      "place": "@link{places.udacity}",
-      "period": ["2014/01", "2014/07"],
-
-      "locales": {
-        "en": {
-          "title": "Master's in Computer Applications",
-          "description": "Enrolled in an online program covering essential UX concepts, including user research, usability testing, and information architecture. Strengthened skills in creating intuitive and user-friendly digital experiences."
-        }
-      }
-    },
-
-    {
       "id": "bachelor_harvard",
       "place": "@link{places.harvard}",
-      "period": ["2019/07", "2022/05"],
+      "period": ["2019/08", "2022/05"],
 
       "locales": {
         "en": {
           "title": "Bachelor's in Information Technology",
-          "description": "Graduated with a solid foundation in graphic design while specializing in user experience design. Acquired expertise in visual storytelling, UI design, and collaborative design thinking."
-        }
+          "description": "Completed a Bachelor's in Information Technology, acquiring robust programming skills and a strong foundation in IT fundamentals. Developed proficiency in various programming languages and gained a comprehensive understanding of core IT principles."
+        } 
       }
     },
 
     {
       "id": "masters_paris",
-      "place": "@link{places.paris}",
-      "period": ["2019/07", "Running"],
+      "place": "@link{places.harvard}",
+      "period": ["2022/09", "2024/06"],
 
       "locales": {
         "en": {
           "title": "Master's in Computer Applications",
-          "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies."
+          "description": "Attained a Master's in Computer Applications (MCA) with a strong emphasis on project management, software life-cycle, and mastery of various cutting-edge programming language concepts. Acquired comprehensive knowledge and practical skills to navigate the dynamic landscape of software development."
         }
       }
     }
